@@ -14,7 +14,7 @@ Listing useful and useless abuse reporters :)
 | shkron | Port Scans, Lying about 3WHS, Invalid Logs |
 | watchdogcyberdefense | Port Scans |
 | bitninja | Port Scans |
-| cert.br | Port Scans, Wrong Email |
+| cert.br | Port Scans, Wrong Email, Spam |
 | abusix | Port Scans |
 | redfish-solutions | Port Scans |
 | egp | Port Scans, Lying about 3WHS |
